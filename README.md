@@ -14,3 +14,7 @@ added feature2
 master added a line and changed the line
 
 user2 added a line to master 
+
+master added a line
+
+added feature3
