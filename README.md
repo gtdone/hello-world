@@ -16,3 +16,5 @@ master added a line and changed the line
 user2 added a line to master 
 
 user2 v2
+
+user1 abc
