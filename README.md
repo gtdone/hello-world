@@ -12,3 +12,5 @@ added feature2
 -completed feature 1v2
 
 master added a line and changed the line
+
+user2 added a line to master 
